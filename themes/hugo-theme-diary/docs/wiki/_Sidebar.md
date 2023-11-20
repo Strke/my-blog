@@ -1,0 +1,26 @@
+- [Home](https://github.com/AmazingRise/hugo-theme-diary/wiki)
+- Configurations
+  * [Internationalization(i18n)](https://github.com/AmazingRise/hugo-theme-diary/wiki/Internationalization)
+  * [Sidebar](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#customize-sidebar)
+  * [Favicon](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#add-favicon)
+  * [Table Of Contents](https://github.com/AmazingRise/hugo-theme-diary/wiki/Table-Of-Contents)
+  * [Enable/Disable Comment](https://github.com/AmazingRise/hugo-theme-diary/wiki/Comment-Area)
+  * [Archive Page](https://github.com/AmazingRise/hugo-theme-diary/wiki/Taxonomies-and-Sections-(Archive,-Categories-and-Tags))
+  * [Categories and Tags](https://github.com/AmazingRise/hugo-theme-diary/wiki/Taxonomies-and-Sections-(Archive,-Categories-and-Tags)#taxonomies)
+- 3rd. party services
+  * [Comment Services](https://github.com/AmazingRise/hugo-theme-diary/wiki/Comment)
+  * [Google Analytics](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#add-google-analytics)
+  * [Google Site Verification](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#add-google-site-verification)
+  * [Google Search Intergration](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#add-google-search-box-on-your-site)
+- Writing
+  * [Meta Data](https://github.com/AmazingRise/hugo-theme-diary/wiki/Post's-meta-data)
+  * [LaTeX Support](https://github.com/AmazingRise/hugo-theme-diary/wiki/LaTeX-Support)
+  * [RSS Feed](https://github.com/AmazingRise/hugo-theme-diary/wiki/RSS-Feed)
+  * [Inserting Figures](https://github.com/AmazingRise/hugo-theme-diary/wiki/Inserting-Figures)
+- Styling
+  * [Color Scheme](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#change-color-scheme)
+  * [Code Highlight](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#about-highlight)
+  * [Font Family](https://github.com/AmazingRise/hugo-theme-diary/wiki/Customization#change-default-font-scheme)
+  * [Reading Time](https://github.com/AmazingRise/hugo-theme-diary/wiki/Reading-Time)
+  * [Dark Mode](https://github.com/AmazingRise/hugo-theme-diary/wiki/Dark-Mode)
+- [Troubleshooting](https://github.com/AmazingRise/hugo-theme-diary/wiki/Troubleshooting)

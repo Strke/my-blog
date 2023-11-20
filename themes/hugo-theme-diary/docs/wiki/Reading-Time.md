@@ -1,0 +1,1 @@
+Please add `enableReadingTime=true` to `[params]` in your site's config.toml.
