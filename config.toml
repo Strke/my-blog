@@ -1,7 +1,7 @@
-baseURL = "https://strke.github.io/linrz.github.io/"
+baseURL = "localhost"
 DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
+title = "My Site"
 copyright = "This is a customized copyright."
 theme = "hugo-theme-diary"
 # googleAnalytics = "UA-123-45"
